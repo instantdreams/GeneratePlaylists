@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <JobFolder>D:\ServerFolders\Company\Scripts\GeneratePlaylists</JobFolder>
+  <JobName>GeneratePlaylists</JobName>
+  <LogFolder>D:\ServerFolders\Company\Scripts\Logs</LogFolder>
+</Configuration>
