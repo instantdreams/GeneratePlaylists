@@ -35,6 +35,7 @@ function CreatePlaylist
         Update Date:    2019-06-04
         Purpose/Change: Merged scripts to use functions
     #>
+    ## ---- [Function Parameters] ----
     [CmdletBinding()]
     Param
     (
@@ -109,6 +110,7 @@ function ManageArtists
         Update Date:    2019-06-04
         Purpose/Change: Merged scripts to use functions
     #>
+    ## ---- [Function Parameters] ----
     [CmdletBinding()]
     Param
     (
