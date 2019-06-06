@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <JobFolder>[path to where you place your powershell scripts\GeneratePlaylists]</JobFolder>
+  <JobName>GeneratePlaylists</JobName>
+  <LogFolder>[path to where you place your powershell scripts\Logs]</LogFolder>
+</Configuration>

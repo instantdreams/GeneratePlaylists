@@ -1,0 +1,14 @@
+# Exclude configuration file - get sample from repository, rename, then adjust accordingly
+GeneratePlaylists.xml
+
+# Created by https://www.gitignore.io/api/powershell
+# Edit at https://www.gitignore.io/?templates=powershell
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# End of https://www.gitignore.io/api/powershell
