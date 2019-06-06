@@ -1,4 +1,4 @@
-# Exclude configuration file - get from repository then adjust accordignly
+# Exclude configuration file - get sample from repository, rename, then adjust accordingly
 GeneratePlaylists.xml
 
 # Created by https://www.gitignore.io/api/powershell
